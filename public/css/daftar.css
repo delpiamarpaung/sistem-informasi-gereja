@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: url('../img/Latar.jpg') no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-floating{
+    height: 75px;
+    position: center;
+    display: center;
+    justify-content: center;
+    align-items: center;
+}
